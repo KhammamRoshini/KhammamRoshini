@@ -10,7 +10,7 @@
 - 🌱 Currently learning *Data Visualization, **Machine Learning, and **Power BI*  
 - 💬 Ask me about anything related to *Python, **SQL, or **Data Analysis*  
 - 🤝 Open to collaborate on *data analytics* and *open-source projects*  
-- 📫 Reach me at: *roshinikhammam@gmail@.com*
+- 📫 Reach me at: *roshinikhammam@gmail.com*
 
 ---
 
