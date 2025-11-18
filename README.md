@@ -1,47 +1,47 @@
- # 👋 Hi, I'm [Roshini Kammam]! 
 
-### 💡 [Data Analyst & Punchy Title]
-I'm a **[Your Main Role, e.g., Full Stack Developer]** specializing in **[Primary Tech, e.g., Python and Django]**. My current focus is building scalable, clean, and well-tested APIs. 
----
 
-## 🚀 My Tech Stack & Tools
-
-### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Databases & Hosting
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+# 👋 Hi there, I'm Roshini
+### 🎓 B.Tech CSE Student | 💡 Aspiring Data Analyst | 📊 Data Enthusiast
 
 ---
 
-## 🌱 Currently Learning & Collaborating
-
-* 📚 I’m currently deep-diving into **Cloud Engineering** with **Terraform**.
-* 🤝 I'm looking to collaborate on **Open Source projects** focused on sustainable technology solutions.
-* 💬 Ask me about **efficient database queries** or **setting up CI/CD pipelines**!
-
----
-
-## 📈 GitHub Stats (Optional)
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=vue)
+🌟 *About Me*
+- 🎯 Passionate about discovering insights from data and building data-driven solutions  
+- 🌱 Currently learning *Data Visualization, **Machine Learning, and **Power BI*  
+- 💬 Ask me about anything related to *Python, **SQL, or **Data Analysis*  
+- 🤝 Open to collaborate on *data analytics* and *open-source projects*  
+- 📫 Reach me at: *roshinikhammam@gmail@.com*
 
 ---
 
-## 📧 Connect With Me
+🧠 *Tech Stack & Tools*
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
 
-* **[Portfolio/Website]([Link to your website])**
-* **[LinkedIn]([Link to your LinkedIn profile])**
-* **[Twitter/X]([Link to your Twitter/X profile])**
+---
 
+📊 *GitHub Stats*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Vaishnavi's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="48%"/>
+</p>
+
+---
+
+🚀 *Top Languages*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="48%"/>
+</p>
+
+---
+
+✨ “Turning data into meaningful stories.”
 
 
 
