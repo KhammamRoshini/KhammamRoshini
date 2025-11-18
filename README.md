@@ -131,7 +131,7 @@
 📧 [roshinikhammam@gmail.com](mailto:roshinikhammam@gmail.com)  
 📞 [+91 7780453945](tel:+917780453945)   
 💼 [LinkedIn](www.linkedin.com/in/roshini-kammam-970622307)  
-🐙 [GitHub](
+🐙 [GitHub](https://github.com/KhammamRoshini)
 ---
 
 <div align="center">
