@@ -100,12 +100,7 @@
 ### 🏆 Achievements & Certifications
 • Certification of completion of Python from codetantra.\
 
-📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
-  Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
-
-  
-
----
+📄 Certification of ”Published research paper titled ’Silent saviour: A Machine Learning Based Approach for co2 Emission Rating of Vehicles using Data Science in the International Journal of Basic and Applied Research”.\
 
 
 # 📊 GitHub Stats:
